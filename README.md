@@ -1,2 +1,2 @@
 # demo
-activité pour un cours
+activité pour un cours sur github
